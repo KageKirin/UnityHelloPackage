@@ -1,0 +1,35 @@
+{
+    "name": "com.kagekirin.hello",
+    "version": "0.0.0-0",
+    "displayName": "Hello package",
+    "description": "A simple package",
+    "unity": "2021.1",
+    "files": [
+        "Scripts/Editor/**",
+        "Scripts/Editor.meta",
+        "Scripts/Runtime/**",
+        "Scripts/Runtime.meta",
+        "Assemblies/**",
+        "Assemblies/*.meta",
+        "Documentation~/**",
+        "**.meta",
+        "*.md"
+    ],
+    "dependencies": {},
+    "keywords": [
+        "hello"
+    ],
+    "author": {
+        "name": "KageKirin",
+        "email": "kagekirin@gmail.com",
+        "url": "https://github.com/kagekirin"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/KageKirin/UnityHelloPackage.git",
+        "directory": "com.kagekirin.hello"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/@kagekirin"
+    }
+}
