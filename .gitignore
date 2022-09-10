@@ -1,0 +1,15 @@
+## .gitignore for MascotCapsule.Unity
+
+## artifacts from running npm pack
+*.tar.gz
+*.tgz
+
+## C# projects and build artifacts
+*.sln
+*.csproj
+obj/
+Temp/
+
+## Unity artifacts
+Library/
+Logs/
