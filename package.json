@@ -1,6 +1,6 @@
 {
     "name": "com.kagekirin.hello",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "displayName": "Hello package",
     "description": "A simple package",
     "unity": "2021.1",
