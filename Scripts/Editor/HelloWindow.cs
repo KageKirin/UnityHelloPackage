@@ -15,6 +15,11 @@ namespace Hello
         void OnGUI()
         {
             EditorGUILayout.LabelField("Hello");
+
+            if (GUILayout.Button("Print"))
+            {
+                Salute.Print("Ave!");
+            }
         }
     }
 }
