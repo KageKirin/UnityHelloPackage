@@ -1,0 +1,4 @@
+[submodule "Packages/Hello"]
+	path = Packages/Hello
+	url = git@github.com:KageKirin/UnityHelloPackage.git
+	branch = main
