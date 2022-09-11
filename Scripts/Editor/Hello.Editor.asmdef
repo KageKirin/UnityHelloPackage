@@ -1,7 +1,9 @@
 {
     "name": "Hello.Editor",
     "rootNamespace": "Hello",
-    "references": [],
+    "references": [
+        "Hello"
+    ],
     "includePlatforms": [
         "Editor"
     ],
@@ -9,7 +11,7 @@
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
-    "autoReferenced": false,
+    "autoReferenced": true,
     "defineConstraints": [],
     "versionDefines": [],
     "noEngineReferences": false
