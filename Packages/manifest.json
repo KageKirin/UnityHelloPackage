@@ -1,4 +1,13 @@
 {
+  "scopedRegistries": [
+    {
+      "name": "npmjs",
+      "url": "https://registry.npmjs.org",
+      "scopes": [
+        "com.kagekirin"
+      ]
+    }
+  ],
   "dependencies": {
     "com.unity.collab-proxy": "1.15.16",
     "com.unity.feature.development": "1.0.1",
