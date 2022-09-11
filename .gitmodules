@@ -1,0 +1,4 @@
+[submodule "Assets/Extern/Hello"]
+	path = Assets/Extern/Hello
+	url = git@github.com:KageKirin/UnityHelloPackage.git
+	branch = main
