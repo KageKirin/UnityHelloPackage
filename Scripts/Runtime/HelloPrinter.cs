@@ -8,7 +8,7 @@ namespace Hello
 
         void Update()
         {
-            Debug.Log($"Hello: {Message}");
+            Salute.Print($"Hello: {Message}");
         }
     }
 }
