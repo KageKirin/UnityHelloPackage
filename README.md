@@ -1,7 +1,4 @@
 # Unity 'Hello' package
 
-This is the `env/base` branch.
-
-It's just a regular old Unity project with nothing much in it.
-
-The interesting code is on `main`.
+This is the `env/embed` branch. This branch pulls 'Hello' `main` branch as submodule into `Assets/Extern/Hello`,
+effectively _embbeding_ it into the main application's source code.
